@@ -15,22 +15,3 @@ body {
 #game-canvas {
   border: 1px solid #000000;
 }
-
-.btn-container {
-  margin: 24px 0;
-}
-
-.toggle-btn {
-  margin: 0;
-  padding: 12px 16px;
-  background-color: #D32E2E;
-  border: 0;
-  border-radius: 5px;
-  color: #FFFFFF;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-.toggle-btn:hover {
-  opacity: 0.9;
-}
